@@ -149,6 +149,9 @@ export default function GiftExperience() {
             <div className="final-heart">♥</div>
             <p className="happy-day">Feliz día.</p>
             <button className="ghost-button" onClick={reset}>Volver a verlo</button>
+            <p className="gift-credit">
+  Una experiencia de <a href="https://github.com/Doglidev" target="_blank" rel="noreferrer">Mateo Dogliani</a>
+</p>
           </div>
         </section>
       )}
